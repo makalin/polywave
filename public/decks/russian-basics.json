@@ -1,0 +1,63 @@
+{
+  "language": "ru",
+  "name": "Basics – Travel",
+  "cards": [
+    {
+      "id": "ru_travel_001",
+      "base": "train",
+      "target": "поезд",
+      "example_base": "We go by train.",
+      "example_target": "Мы едем на поезде."
+    },
+    {
+      "id": "ru_travel_002",
+      "base": "airport",
+      "target": "аэропорт",
+      "example_base": "The airport is far.",
+      "example_target": "Аэропорт далеко."
+    },
+    {
+      "id": "ru_travel_003",
+      "base": "hotel",
+      "target": "отель",
+      "example_base": "We stay at a hotel.",
+      "example_target": "Мы останавливаемся в отеле."
+    },
+    {
+      "id": "ru_travel_004",
+      "base": "restaurant",
+      "target": "ресторан",
+      "example_base": "Let's eat at a restaurant.",
+      "example_target": "Давайте поедим в ресторане."
+    },
+    {
+      "id": "ru_travel_005",
+      "base": "hello",
+      "target": "Привет",
+      "example_base": "Hello, how are you?",
+      "example_target": "Привет, как дела?"
+    },
+    {
+      "id": "ru_travel_006",
+      "base": "thank you",
+      "target": "Спасибо",
+      "example_base": "Thank you very much.",
+      "example_target": "Большое спасибо."
+    },
+    {
+      "id": "ru_travel_007",
+      "base": "please",
+      "target": "Пожалуйста",
+      "example_base": "Please help me.",
+      "example_target": "Пожалуйста, помогите мне."
+    },
+    {
+      "id": "ru_travel_008",
+      "base": "goodbye",
+      "target": "До свидания",
+      "example_base": "Goodbye, see you later.",
+      "example_target": "До свидания, увидимся позже."
+    }
+  ]
+}
+

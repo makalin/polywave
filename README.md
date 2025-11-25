@@ -12,27 +12,39 @@ Retro-styled multilingual vocab trainer with **text-to-speech** and **speech rec
   - Target languages: **German, French, Russian**  
   - Base language selectable (EN/TR/etc.)
   - Add your own decks easily via JSON.
+  - **Custom deck editor** with import/export (JSON/CSV)
 
 - 🔊 **Text-to-Speech (TTS)**  
   - Natural voices for DE/FR/RU  
-  - Slow/normal playback  
-  - Loop mode for shadowing practice.
+  - Adjustable playback rate and pitch
+  - OpenAI TTS or Web Speech API fallback
 
 - 🎙️ **Speech Recognition (ASR)**  
   - User repeats the word  
-  - Whisper / Web Speech API  
+  - OpenAI Whisper / Web Speech API  
+  - Advanced pronunciation scoring with Levenshtein distance
   - Confidence scoring (Perfect / Good / Retry)
 
-- 🧠 **Practice System**  
-  - Word cards  
+- 🧠 **Advanced Practice System**  
+  - Word cards with examples
   - Reveal/Hide translation  
-  - SRS-inspired spaced repetition  
+  - **Spaced Repetition System (SRS)** - SM-2 algorithm
+  - Review modes: Difficult, Due, Mastered
   - Quick sessions (1–2 min)
 
 - 🏆 **Gamified Progress**  
   - XP, streaks, levels  
   - Per-language stats  
-  - Retro sound effects (optional)
+  - Daily goals with progress tracking
+  - Advanced statistics dashboard
+
+- ⚙️ **Professional Tools**  
+  - Settings page (TTS speed, pitch, daily goals)
+  - Custom deck creation and editing
+  - Import/Export decks (JSON/CSV)
+  - Keyboard shortcuts throughout
+  - Toast notifications
+  - Loading states and error handling
 
 ---
 
@@ -153,17 +165,30 @@ Place your decks inside:
 
 ---
 
+## Professional Features
+
+✅ **Implemented:**
+- Spaced Repetition System (SRS) with SM-2 algorithm
+- Custom deck editor with import/export
+- Settings page with TTS/ASR preferences
+- Daily goals and progress tracking
+- Review modes (Difficult, Due, Mastered)
+- Keyboard shortcuts system
+- Toast notification system
+- Advanced statistics dashboard
+- Loading states and error handling
+- Card difficulty tracking
+
 ## Roadmap
 
-* [ ] Core UI + retro CRT shader
-* [ ] Deck selector + importer
-* [ ] TTS for DE/FR/RU
-* [ ] Whisper ASR integration
-* [ ] XP + streak logic
 * [ ] Mobile build (Capacitor)
-* [ ] Custom deck editor (JSON/CSV)
 * [ ] Global leaderboard
 * [ ] Daily challenges
+* [ ] Audio playback history
+* [ ] Study streaks calendar
+* [ ] Export progress data
+* [ ] Multi-user support
+* [ ] Cloud sync
 
 ---
 

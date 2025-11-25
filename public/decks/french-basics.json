@@ -1,0 +1,63 @@
+{
+  "language": "fr",
+  "name": "Basics – Travel",
+  "cards": [
+    {
+      "id": "fr_travel_001",
+      "base": "train",
+      "target": "train",
+      "example_base": "We go by train.",
+      "example_target": "Nous allons en train."
+    },
+    {
+      "id": "fr_travel_002",
+      "base": "airport",
+      "target": "aéroport",
+      "example_base": "The airport is far.",
+      "example_target": "L'aéroport est loin."
+    },
+    {
+      "id": "fr_travel_003",
+      "base": "hotel",
+      "target": "hôtel",
+      "example_base": "We stay at a hotel.",
+      "example_target": "Nous restons dans un hôtel."
+    },
+    {
+      "id": "fr_travel_004",
+      "base": "restaurant",
+      "target": "restaurant",
+      "example_base": "Let's eat at a restaurant.",
+      "example_target": "Mangeons dans un restaurant."
+    },
+    {
+      "id": "fr_travel_005",
+      "base": "hello",
+      "target": "Bonjour",
+      "example_base": "Hello, how are you?",
+      "example_target": "Bonjour, comment allez-vous?"
+    },
+    {
+      "id": "fr_travel_006",
+      "base": "thank you",
+      "target": "Merci",
+      "example_base": "Thank you very much.",
+      "example_target": "Merci beaucoup."
+    },
+    {
+      "id": "fr_travel_007",
+      "base": "please",
+      "target": "S'il vous plaît",
+      "example_base": "Please help me.",
+      "example_target": "S'il vous plaît, aidez-moi."
+    },
+    {
+      "id": "fr_travel_008",
+      "base": "goodbye",
+      "target": "Au revoir",
+      "example_base": "Goodbye, see you later.",
+      "example_target": "Au revoir, à plus tard."
+    }
+  ]
+}
+

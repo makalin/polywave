@@ -1,0 +1,63 @@
+{
+  "language": "de",
+  "name": "Basics – Travel",
+  "cards": [
+    {
+      "id": "de_travel_001",
+      "base": "train",
+      "target": "Zug",
+      "example_base": "We go by train.",
+      "example_target": "Wir fahren mit dem Zug."
+    },
+    {
+      "id": "de_travel_002",
+      "base": "airport",
+      "target": "Flughafen",
+      "example_base": "The airport is far.",
+      "example_target": "Der Flughafen ist weit."
+    },
+    {
+      "id": "de_travel_003",
+      "base": "hotel",
+      "target": "Hotel",
+      "example_base": "We stay at a hotel.",
+      "example_target": "Wir bleiben in einem Hotel."
+    },
+    {
+      "id": "de_travel_004",
+      "base": "restaurant",
+      "target": "Restaurant",
+      "example_base": "Let's eat at a restaurant.",
+      "example_target": "Lass uns in einem Restaurant essen."
+    },
+    {
+      "id": "de_travel_005",
+      "base": "hello",
+      "target": "Hallo",
+      "example_base": "Hello, how are you?",
+      "example_target": "Hallo, wie geht es dir?"
+    },
+    {
+      "id": "de_travel_006",
+      "base": "thank you",
+      "target": "Danke",
+      "example_base": "Thank you very much.",
+      "example_target": "Vielen Dank."
+    },
+    {
+      "id": "de_travel_007",
+      "base": "please",
+      "target": "Bitte",
+      "example_base": "Please help me.",
+      "example_target": "Bitte hilf mir."
+    },
+    {
+      "id": "de_travel_008",
+      "base": "goodbye",
+      "target": "Auf Wiedersehen",
+      "example_base": "Goodbye, see you later.",
+      "example_target": "Auf Wiedersehen, bis später."
+    }
+  ]
+}
+
